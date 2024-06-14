@@ -1,0 +1,6 @@
+@ASPEFCore_HostAddress = http://localhost:5064
+
+GET {{ASPEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
