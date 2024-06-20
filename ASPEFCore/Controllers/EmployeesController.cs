@@ -94,7 +94,7 @@ namespace ASPEFCore.Controllers
 
         [HttpPut]
         [Route("{id:guid}")]
-        public IActionResult UpdateEmployee(Guid id, AddEmployeeDTO employeeDTO)
+        public IActionResult UpdateEmployee(Guid id, EmployeeDTO employeeDTO)
         {
             var employee = dbContext.Employees.Find(id);
             

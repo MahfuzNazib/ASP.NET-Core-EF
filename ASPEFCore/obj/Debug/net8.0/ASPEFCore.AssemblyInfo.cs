@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPEFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+508e7d4142abdc35ad6fa8306648fde8d3b03f39")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPEFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPEFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

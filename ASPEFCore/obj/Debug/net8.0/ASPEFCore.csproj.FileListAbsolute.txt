@@ -134,3 +134,4 @@ E:\Softwares\ASP.NET\ASPEFCore\ASPEFCore\obj\Debug\net8.0\refint\ASPEFCore.dll
 E:\Softwares\ASP.NET\ASPEFCore\ASPEFCore\obj\Debug\net8.0\ASPEFCore.pdb
 E:\Softwares\ASP.NET\ASPEFCore\ASPEFCore\obj\Debug\net8.0\ASPEFCore.genruntimeconfig.cache
 E:\Softwares\ASP.NET\ASPEFCore\ASPEFCore\obj\Debug\net8.0\ref\ASPEFCore.dll
+E:\Softwares\ASP.NET\ASPEFCore\ASPEFCore\obj\Debug\net8.0\ASPEFCore.sourcelink.json
